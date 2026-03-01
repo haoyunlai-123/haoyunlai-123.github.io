@@ -9,5 +9,8 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' }
     ]
+  },
+  markdown: {
+  html: false
   }
 })
