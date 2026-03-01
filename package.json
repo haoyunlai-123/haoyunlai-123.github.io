@@ -1,23 +1,14 @@
 {
-  "name": "my-blog",
-  "version": "1.0.0",
-  "main": "index.js",
+  "name": "haoyunlai-123.github.io",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build",
-    "docs:preview": "vitepress preview"
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "description": "",
   "devDependencies": {
     "vitepress": "^1.6.4"
-  }，
-  "scripts": {
-  "dev": "vitepress dev docs",
-  "build": "vitepress build docs",
-  "preview": "vitepress preview docs"
-}
+  }
 }

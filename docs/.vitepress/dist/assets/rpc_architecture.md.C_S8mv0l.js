@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as r}from"./chunks/framework.DUXye8bg.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"rpc/architecture.md","filePath":"rpc/architecture.md"}'),c={name:"rpc/architecture.md"};function a(o,s,n,i,p,_){return t(),r("div")}const f=e(c,[["render",a]]);export{m as __pageData,f as default};

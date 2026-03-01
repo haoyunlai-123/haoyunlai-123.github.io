@@ -1,0 +1,1 @@
+import{_ as o,o as t,c as e}from"./chunks/framework.DUXye8bg.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"rpc/protocol.md","filePath":"rpc/protocol.md"}'),r={name:"rpc/protocol.md"};function c(a,p,s,n,l,_){return t(),e("div")}const m=o(r,[["render",c]]);export{i as __pageData,m as default};
